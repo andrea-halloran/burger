@@ -13,5 +13,5 @@ devoured BOOLEAN,
 PRIMARY KEY (id)
 ); 
 
-USE burgers_db; 
-SELECT * FROM burgers;
+-- USE burgers_db; 
+-- SELECT * FROM burgers;
