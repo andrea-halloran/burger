@@ -10,4 +10,4 @@ var connection = require("../config/connection.js");
 
 
 // export 
-module.exports = orm; 
+// module.exports = orm; 

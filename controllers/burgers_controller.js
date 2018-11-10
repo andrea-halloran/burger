@@ -7,11 +7,11 @@ var router = express.Router();
 var burger = require("../models/burger.js"); 
 
 // create the router for the app 
-router.get("/", function(req, res){
-    burger.all(function(data){
+// router.get("/", function(req, res){
+//     burger.all(function(data){
 
-    })
-})
+//     })
+// })
 
 // export the router at the end of the file 
 module.exports = router; 
